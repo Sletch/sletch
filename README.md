@@ -49,7 +49,7 @@ I love building projects around:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 📈 GitHub Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=banditofsmoke&show_icons=true&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sletch&show_icons=true&theme=radical" />
 
 ## 🎯 Current Focus
 I'm currently diving deep into advanced AI systems and blockchain technologies. Always open to collaborations and exciting projects!
