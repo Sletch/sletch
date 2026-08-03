@@ -11,11 +11,6 @@
 </div>
 
 
-## 🌐 Connect with me
-[![LinkedIn](https://www.linkedin.com/in/waynesletcher/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/banditofsmoke)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wsletcher@gmail.com)
-
 
 ## 🚀 About me
 Hey, I'm Wayne, a passionate coder and adventure-seeker! 🏞️
@@ -48,11 +43,6 @@ I love building projects around:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📈 GitHub Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sletch&show_icons=true&theme=radical" />
-
-## 🎯 Current Focus
-I'm currently diving deep into advanced AI systems and blockchain technologies. Always open to collaborations and exciting projects!
 
 ---
 
