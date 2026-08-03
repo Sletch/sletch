@@ -1,17 +1,5 @@
 # Wayne Sletcher 
 
-<div align="center">
-  <a href="https://ko-fi.com/waynesletcher" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="60" width="217" />
-  </a>
-  <br />
-  <a href="https://ko-fi.com/waynesletcher" target="_blank">
-    <strong>Buy Me a Coffee! ☕️</strong>
-  </a>
-</div>
-
-
-
 ## 🚀 About me
 Hey, I'm Wayne, a passionate coder and adventure-seeker! 🏞️
 - 🔧 Creator of Sletcher Systems and Global Defense Network
