@@ -1,4 +1,4 @@
-# Wayne Sletcher | banditofsmoke | Sletch 🏴‍☠️
+# Wayne Sletcher 
 
 <div align="center">
   <a href="https://ko-fi.com/waynesletcher" target="_blank">
