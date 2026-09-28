@@ -30,7 +30,7 @@ THEMES = {
 
 CHECKS = [
     ("production / ship", "esl.sletchersystems.com is live and taking payments"),
-    ("upstream / unsloth", "PR #11142 merged into a 77k★ repo"),
+    ("upstream / unsloth", "2 PRs merged into a 77k★ repo, 7 more open"),
     ("upstream / llama_index", "3 Windows fixes in review at a 52k★ repo"),
     ("tests / ci", "1,200+ tests on the ESL platform, CI on every PR"),
     ("build / courses", "Git From Zero and Kubernetes & OpenShift, both live"),
@@ -92,7 +92,7 @@ def build(t):
       f'role="img" aria-labelledby="t d">')
     a('<title id="t">feat: hire Wayne Sletcher</title>')
     a('<desc id="d">A pull request asking to merge one engineer into your team. Six checks pass: '
-      'shipped to production, merged into Unsloth, three fixes in review at LlamaIndex, 1,200+ tests, '
+      'shipped to production, two PRs merged into Unsloth, three fixes in review at LlamaIndex, 1,200+ tests, '
       'two live courses, UTC+2. No conflicts with the base branch. Merge pull request: wsletcher@gmail.com</desc>')
     a(f'<rect x="0.5" y="0.5" width="{W - 1}" height="{H - 1}" rx="12" fill="{t["bg"]}" stroke="{t["border"]}"/>')
     a(f'<g font-family="{SANS}">')

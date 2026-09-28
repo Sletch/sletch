@@ -1,7 +1,7 @@
 <a href="https://www.sletchersystems.com/enquire?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=hire-me">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/hire-me-dark.svg">
-    <img alt="A pull request titled 'feat: hire Wayne Sletcher', asking to merge 1 engineer into your-team:main. Six checks pass: shipped to production, merged into Unsloth, three fixes in review at LlamaIndex, 1,200+ tests, two live courses, UTC+2. No conflicts with the base branch. Merge pull request opens a message form." src="assets/hire-me-light.svg" width="100%">
+    <img alt="A pull request titled 'feat: hire Wayne Sletcher', asking to merge 1 engineer into your-team:main. Six checks pass: shipped to production, two PRs merged into Unsloth, three fixes in review at LlamaIndex, 1,200+ tests, two live courses, UTC+2. No conflicts with the base branch. Merge pull request opens a message form." src="assets/hire-me-light.svg" width="100%">
   </picture>
 </a>
 
@@ -52,8 +52,10 @@ A free platform for people moving into software from other careers. You apply, t
 
 ## 🔧 Open source
 
-- ✅ **Merged into [Unsloth](https://github.com/unslothai/unsloth)** (77k★) · [#11142](https://github.com/unslothai/unsloth/pull/11142)<br>
-  Their embedding code was starting a new GPU check process on every single call. One user's log had 274 of them in about three minutes. I found where it came from and fixed it so it only checks once.
+- ✅ **2 merged into [Unsloth](https://github.com/unslothai/unsloth)** (77k★)
+  - [#11142](https://github.com/unslothai/unsloth/pull/11142): their embedding code was starting a new GPU check process on every single call. One user's log had 274 of them in about three minutes. I found where it came from and fixed it so it only checks once.
+  - [#10073](https://github.com/unslothai/unsloth/pull/10073): on Windows with an Intel GPU, PowerShell was reading the installer's `-d` flag as `-Debug`, so one step of the install had never worked since it was added. Tracked it down and fixed it.
+- 🟡 **[7 more open at Unsloth](https://github.com/unslothai/unsloth/pulls?q=is%3Apr+is%3Aopen+author%3ASletch)**, mostly test fixes.
 - 🟡 **In review at [LlamaIndex](https://github.com/run-llama/llama_index)** (52k★) · [#23293](https://github.com/run-llama/llama_index/pull/23293) · [#23292](https://github.com/run-llama/llama_index/pull/23292) · [#23281](https://github.com/run-llama/llama_index/pull/23281)<br>
   All three are Windows bugs. Their CI doesn't run the tests on Windows, so I do.
 
