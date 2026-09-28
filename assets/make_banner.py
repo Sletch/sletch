@@ -138,7 +138,7 @@ def build(t):
         cy = ROW0 + ROW_H // 2 + i * ROW_H
         a(swap(FIRST + i * STEP, spinner(60, cy, 6.5, t["yellow"]), check(60, cy, t["green"])))
         a(f'<text x="84" y="{cy + 5}" font-size="14" fill="{t["muted"]}">'
-          f'<tspan font-weight="600" fill="{t["fg"]}">{e(name)}</tspan>  —  {e(desc)}</text>')
+          f'<tspan font-weight="600" fill="{t["fg"]}">{e(name)}</tspan>  ·  {e(desc)}</text>')
     end = ROW0 + ROW_H * len(CHECKS)
     a(f'<line x1="{X0}" y1="{end}" x2="{X1}" y2="{end}" stroke="{t["border"]}"/>')
 
