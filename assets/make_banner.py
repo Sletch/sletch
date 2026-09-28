@@ -33,7 +33,7 @@ CHECKS = [
     ("upstream / unsloth", "PR #11142 merged into a 77k★ repo"),
     ("upstream / llama_index", "3 Windows fixes in review at a 52k★ repo"),
     ("tests / ci", "1,200+ tests on the ESL platform, CI on every PR"),
-    ("teach / courses", "Git From Zero and Kubernetes & OpenShift, both live"),
+    ("build / courses", "Git From Zero and Kubernetes & OpenShift, both live"),
     ("ops / timezone", "UTC+2, overlapping Europe's whole working day"),
 ]
 

@@ -1,19 +1,21 @@
-<a href="mailto:wsletcher@gmail.com?subject=Merging%20your%20pull%20request">
+<a href="https://www.sletchersystems.com/enquire?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=hire-me">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/hire-me-dark.svg">
-    <img alt="A pull request titled 'feat: hire Wayne Sletcher', asking to merge 1 engineer into your-team:main. Six checks pass: shipped to production, merged into Unsloth, three fixes in review at LlamaIndex, 1,200+ tests, two live courses, UTC+2. No conflicts with the base branch. Merge pull request: wsletcher@gmail.com" src="assets/hire-me-light.svg" width="100%">
+    <img alt="A pull request titled 'feat: hire Wayne Sletcher', asking to merge 1 engineer into your-team:main. Six checks pass: shipped to production, merged into Unsloth, three fixes in review at LlamaIndex, 1,200+ tests, two live courses, UTC+2. No conflicts with the base branch. Merge pull request opens a message form." src="assets/hire-me-light.svg" width="100%">
   </picture>
 </a>
 
 <p align="center">
-  <a href="mailto:wsletcher@gmail.com"><img alt="Open to work" src="https://img.shields.io/badge/OPEN_TO_WORK-available_this_week-238636?style=for-the-badge"></a>
-  <a href="mailto:wsletcher@gmail.com"><img alt="Email wsletcher@gmail.com" src="https://img.shields.io/badge/email-wsletcher%40gmail.com-0969da?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.sletchersystems.com/enquire?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=hire-me"><img alt="Open to work" src="https://img.shields.io/badge/OPEN_TO_WORK-available_this_week-238636?style=for-the-badge"></a>
+  <a href="https://www.sletchersystems.com/enquire?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=hire-me"><img alt="Message me, 30 seconds, no account" src="https://img.shields.io/badge/message_me-30_seconds,_no_account-0969da?style=for-the-badge"></a>
   <a href="https://www.sletchersystems.com"><img alt="sletchersystems.com" src="https://img.shields.io/badge/site-sletchersystems.com-24292f?style=for-the-badge"></a>
   <img alt="Remote, UTC+2" src="https://img.shields.io/badge/remote-UTC%2B2-6e7781?style=for-the-badge">
 </p>
 
 > [!NOTE]
-> **The short version.** I'm Wayne, a full-stack and applied-AI developer in South Africa. I'll be direct: **I'm looking for work, and I can start this week.** Contract, freelance or full-time, remote. Everything below links to something you can check. **[wsletcher@gmail.com](mailto:wsletcher@gmail.com)**
+> **The short version.** I'm Wayne, a full-stack and applied-AI developer in South Africa. I'll be direct: **I'm looking for work, and I can start this week.** Contract, freelance or full-time, remote. Everything below links to something you can check.
+>
+> **[Send me a message](https://www.sletchersystems.com/enquire?utm_source=github&utm_medium=profile&utm_campaign=hire-me)**, three questions and no account, or email **`wsletcher@gmail.com`**
 
 **Closes:** the role you haven't filled yet. **Reviewers:** you.
 
@@ -127,6 +129,10 @@ LlamaIndex's CI never runs its tests on Windows, so the bugs that only exist the
 - **My contribution graph here looks quiet.** The product code is private, on [@banditofsmoke](https://github.com/banditofsmoke): 98 merged PRs on The English System and 81 on the agency site. I'll happily walk you through any of it on a call.
 - **I'm in South Africa, on UTC+2.** That covers Europe's whole working day and the US East Coast's morning.
 
+## Not in scope
+
+- **Teaching jobs.** I've taught, and I'm done with it. I want to build.
+
 ## Prior art
 
 <details>
@@ -162,9 +168,9 @@ LlamaIndex's CI never runs its tests on Windows, so the bugs that only exist the
 
 <div align="center">
 
-<a href="mailto:wsletcher@gmail.com?subject=Merging%20your%20pull%20request"><img alt="Merge pull request: wsletcher@gmail.com" src="https://img.shields.io/badge/%E2%9C%93_Merge_pull_request-wsletcher%40gmail.com-238636?style=for-the-badge"></a>
+<a href="https://www.sletchersystems.com/enquire?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=hire-me"><img alt="Merge pull request: send me a message" src="https://img.shields.io/badge/%E2%9C%93_Merge_pull_request-send_me_a_message-238636?style=for-the-badge"></a>
 
-**[wsletcher@gmail.com](mailto:wsletcher@gmail.com)** · [sletchersystems.com/enquire](https://www.sletchersystems.com/enquire)
+**[Send me a message](https://www.sletchersystems.com/enquire?utm_source=github&utm_medium=profile&utm_campaign=hire-me)** (three questions, no account) · or email **`wsletcher@gmail.com`**
 
 <i>Let's connect and build something amazing together!</i>
 
