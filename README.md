@@ -18,6 +18,14 @@ I'm a developer from South Africa and I'm looking for work. Contract, freelance 
 
 I build full-stack apps and AI stuff, and I get them live. Everything below is running right now, so click on it.
 
+If your team looks anything like this:
+
+```js
+backlog.length > team.capacity   // true, every sprint
+```
+
+then this PR fixes it. Reviewers: you 🙂
+
 📬 **[Send me a message](https://www.sletchersystems.com/enquire?utm_source=github&utm_medium=profile&utm_campaign=hire-me)** or email me at `wsletcher@gmail.com`
 
 ## 🚀 What I've built
@@ -72,6 +80,8 @@ A free platform for people moving into software from other careers. You apply, t
 
 ## 💡 Stuff I love building around
 
+Straight from my 2024 README. Still true, and I'm still a passionate coder and adventure-seeker 🏞️
+
 - 🔧 Creator of Sletcher Systems and Global Defense Network
 - 💻 Object-oriented programming
 - 🧠 RAG systems (from tiny to industry level)
@@ -88,13 +98,13 @@ A free platform for people moving into software from other careers. You apply, t
 - 📊 Multimodal models
 - 💾 Memory and thread script management
 
-## 📝 Good to know
+## 🐛 Known issues
 
-- Most of my product code lives in private repos on [@banditofsmoke](https://github.com/banditofsmoke), which is why this profile looks quiet. Happy to walk you through any of it on a call.
-- I'm on UTC+2, so I overlap with Europe all day and the US in the morning.
-- I'm not looking for teaching jobs. I don't want to teach anymore, I want to code and build.
+- **This profile looks quiet.** Most of my product code lives in private repos on [@banditofsmoke](https://github.com/banditofsmoke). Happy to walk you through any of it on a call.
+- **Timezone is UTC+2.** Won't fix. I overlap with Europe all day and the US in the morning, so it's more of a feature.
+- **Doesn't do teaching jobs.** Also won't fix. I don't want to teach anymore, I want to code and build.
 
----
+## 🔀 How to merge
 
 <div align="center">
 
