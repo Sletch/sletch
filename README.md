@@ -7,146 +7,72 @@
 
 <p align="center">
   <a href="https://www.sletchersystems.com/enquire?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=hire-me"><img alt="Open to work" src="https://img.shields.io/badge/OPEN_TO_WORK-available_this_week-238636?style=for-the-badge"></a>
-  <a href="https://www.sletchersystems.com/enquire?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=hire-me"><img alt="Message me, 30 seconds, no account" src="https://img.shields.io/badge/message_me-30_seconds,_no_account-0969da?style=for-the-badge"></a>
+  <a href="https://www.sletchersystems.com/enquire?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=hire-me"><img alt="Message me" src="https://img.shields.io/badge/message_me-no_account_needed-0969da?style=for-the-badge"></a>
   <a href="https://www.sletchersystems.com"><img alt="sletchersystems.com" src="https://img.shields.io/badge/site-sletchersystems.com-24292f?style=for-the-badge"></a>
-  <img alt="Remote, UTC+2" src="https://img.shields.io/badge/remote-UTC%2B2-6e7781?style=for-the-badge">
+  <a href="https://www.sletchersystems.com/enquire?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=hire-me"><img alt="Remote, UTC+2" src="https://img.shields.io/badge/remote-UTC%2B2-6e7781?style=for-the-badge"></a>
 </p>
 
-> [!NOTE]
-> **The short version.** I'm Wayne, a full-stack and applied-AI developer in South Africa. I'll be direct: **I'm looking for work, and I can start this week.** Contract, freelance or full-time, remote. Everything below links to something you can check.
->
-> **[Send me a message](https://www.sletchersystems.com/enquire?utm_source=github&utm_medium=profile&utm_campaign=hire-me)**, three questions and no account, or email **`wsletcher@gmail.com`**
+# Hey, I'm Wayne 👋
 
-**Closes:** the role you haven't filled yet. **Reviewers:** you.
+I'm a developer from South Africa and I'm looking for work. Contract, freelance or full-time, remote. I can start this week.
 
-## The defect
+I build full-stack apps and AI stuff, and I get them live. Everything below is running right now, so click on it.
 
-```js
-backlog.length > team.capacity   // true, every sprint
-```
+📬 **[Send me a message](https://www.sletchersystems.com/enquire?utm_source=github&utm_medium=profile&utm_campaign=hire-me)** or email me at `wsletcher@gmail.com`
 
-## The change
+## 🚀 What I've built
 
-Hey, I'm Wayne, a passionate coder and adventure-seeker 🏞️, and the creator of Sletcher Systems. I take a product from an empty repo to people paying for it, put AI in it that survives real users, and keep it running once it's live. I've also been a teacher, and it shows: in the docs, in how I hand over, and in PR bodies a maintainer can review in one pass.
+**🗣️ [The English System](https://esl.sletchersystems.com)**<br>
+An English learning platform built on my own teaching method, with real paying students. It has AI feedback on writing, a voice speaking partner you can talk to hands-free, and an AI avatar on every page that takes you where you need to go. Payments run through PayFast. I built it and I run it, on my own.<br>
+<sub>Next.js 16 · React 19 · TypeScript · Supabase · Groq · Gemini · Whisper · Vercel · 98 merged PRs · 1,200+ tests</sub>
 
-## Tests
+**🧪 [Git From Zero](https://git-lesson.sletchersystems.com)** · [code](https://github.com/banditofsmoke/01-git-and-github)<br>
+Takes someone who has never opened a terminal through to branches, pull requests and fixing a merge conflict. The sandbox in it is a small git engine I wrote, so commits, rebase and reflog actually behave like git.<br>
+<sub>One HTML file · no dependencies · 87 tests</sub>
 
-| test | pins | fails without the change |
-|---|---|---|
-| `ships_to_production` | [esl.sletchersystems.com](https://esl.sletchersystems.com), live and taking payments, built and run solo | **yes** |
-| `merges_upstream` | [unslothai/unsloth#11142](https://github.com/unslothai/unsloth/pull/11142), merged into a 77k★ repo | **yes** |
-| `survives_review` | three Windows fixes in review at [run-llama/llama_index](https://github.com/run-llama/llama_index/pulls?q=is%3Apr+author%3ASletch) (52k★) | **yes** |
-| `writes_tests` | 1,200+ tests on the ESL platform, CI on every pull request | **yes** |
-| `explains_it` | [Git From Zero](https://git-lesson.sletchersystems.com) and [Kubernetes & OpenShift](https://k8s.sletchersystems.com), both live | **yes** |
-| `adventure_seeker` | the original 2024 README said so | no, by design (parity guard) |
+**☸️ [Kubernetes & OpenShift](https://k8s.sletchersystems.com)**<br>
+21 lessons and 5 browser sandboxes, plus a real 3-node cluster with a chaos tool that breaks things on purpose so you learn how to fix them.<br>
+<sub>kind · Calico · Kubernetes 1.34 · 24 tests</sub>
 
-## What's in this change
+**🏢 [Sletcher Systems](https://www.sletchersystems.com)**<br>
+My agency site, in English, Afrikaans, isiXhosa and isiZulu. I built the enquiry form, the analytics and the admin dashboard behind it myself.<br>
+<sub>React · Vite · Vercel · Supabase · 81 merged PRs</sub>
 
-### 🗣️ The English System · [esl.sletchersystems.com](https://esl.sletchersystems.com)
+**🎓 TeacherSletch** (still building)<br>
+A free platform for people moving into software from other careers. You apply, then prove what you can do with your own projects, and a bot checks them automatically.<br>
+<sub>Python · pytest · GitHub Actions · Docker</sub>
 
-English practice for A1 to B2 learners on mid-range Android phones over mobile data, built on my own teaching method. Design, code, payments and operations: all mine.
+## 🔧 Open source
 
-- **An AI guide on every page.** She knows which page you're standing on, speaks with a hosted voice, listens through the microphone, and takes you to the page you need instead of handing you a link. Her 15-stop tour for new learners costs zero AI calls, so it still works on a morning the AI provider is down.
-- **A hands-free speaking partner with barge-in**, so you can interrupt it mid-sentence like you would a person.
-- **Writing feedback, a grammar checker, and word games** with a global leaderboard.
-- **Payments through PayFast** with campaign attribution carried through to the payments table, and access that ends when a paid period ends and not before.
-- **Built for the bad day:** rate ceilings on every AI surface, fallbacks when a provider fails, a security log of what scanners throw at the site, and data retention that the privacy page promises and a daily job enforces.
+- ✅ **Merged into [Unsloth](https://github.com/unslothai/unsloth)** (77k★) · [#11142](https://github.com/unslothai/unsloth/pull/11142)<br>
+  Their embedding code was starting a new GPU check process on every single call. One user's log had 274 of them in about three minutes. I found where it came from and fixed it so it only checks once.
+- 🟡 **In review at [LlamaIndex](https://github.com/run-llama/llama_index)** (52k★) · [#23293](https://github.com/run-llama/llama_index/pull/23293) · [#23292](https://github.com/run-llama/llama_index/pull/23292) · [#23281](https://github.com/run-llama/llama_index/pull/23281)<br>
+  All three are Windows bugs. Their CI doesn't run the tests on Windows, so I do.
 
-`Next.js 16` `React 19` `TypeScript` `Supabase / Postgres` `Groq + Gemini` `Whisper` `Vercel` · 98 merged PRs · 1,200+ tests
+## 🛠️ How I work
 
-### 🧪 Git From Zero · [git-lesson.sletchersystems.com](https://git-lesson.sletchersystems.com) · [code](https://github.com/banditofsmoke/01-git-and-github)
+- I write tests. A fix isn't done until there's a test that fails without it.
+- When I find a bug, I go check everywhere else the same bug could be hiding.
+- I build with Claude Code and I'm open about it. It's how I get this much done on my own.
 
-Takes you from never having opened a terminal to a merge conflict you caused on purpose and then fixed.
+## 🏆 Skills
 
-- The sandbox is a real state machine: commits form a DAG, a rebase leaves the originals behind as ghosts, and `reflog` really does recover what `reset --hard` threw away.
-- An eleven-task exam graded on the repository's actual state, so any correct route passes and there's no string to copy.
-- One HTML file that works offline. 87 assertions, zero dependencies.
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/unslothai/unsloth/pull/11142)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://esl.sletchersystems.com)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://git-lesson.sletchersystems.com)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://esl.sletchersystems.com)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://esl.sletchersystems.com)
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://www.sletchersystems.com)
+[![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://esl.sletchersystems.com)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://esl.sletchersystems.com)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://esl.sletchersystems.com)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://k8s.sletchersystems.com)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://k8s.sletchersystems.com)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](#-stuff-i-love-building-around)
 
-### ☸️ Kubernetes & OpenShift · [k8s.sletchersystems.com](https://k8s.sletchersystems.com)
-
-21 lessons, 5 browser sandboxes, and a real 3-node cluster you're meant to break.
-
-- Every lesson blocks until you commit to a prediction, and wrong answers come back later as a revision queue.
-- kind with Calico, on Kubernetes v1.34 to match OpenShift 4.21. Calico because kind's default CNI accepts NetworkPolicy objects and then silently ignores them.
-- Ten chaos faults injected blind, sixteen drills, and 24 tests that re-prove every claim the course makes.
-
-### 🏢 Sletcher Systems · [sletchersystems.com](https://www.sletchersystems.com)
-
-My agency site, an applied-AI lab, in English, Afrikaans, isiXhosa and isiZulu.
-
-- A three-question enquiry with no password, UTM and first-touch attribution, session analytics, and an admin dashboard.
-- [Field notes](https://www.sletchersystems.com/notes): what went wrong on real products, what each fault cost, and the rule that came out of it.
-
-`React` `Vite` `Vercel serverless` `Supabase` · 81 merged PRs
-
-### 🎓 TeacherSletch · in build
-
-A free learning platform for people changing career into software. Learners apply, then prove what they can do through gates, checked automatically on their own public repos.
-
-- A bot checks each application, gives every applicant a unique folder maze with a code hidden inside, and sets an accepted student up from a single label.
-- Checks run on every student push, no secret ever gets committed, and the curriculum's own rules are tests.
-
-`Python` `pytest` `GitHub Actions` `Docker` · 33 merged PRs
-
-## Upstream
-
-LlamaIndex's CI never runs its tests on Windows, so the bugs that only exist there pile up quietly. I run them there.
-
-- ✅ **Merged** · [unslothai/unsloth#11142](https://github.com/unslothai/unsloth/pull/11142)<br>
-  Studio re-ran a GPU probe, which starts a whole new process, on every embedding call. A 10-document sync probed 31 times, and one user's log showed 274 probes in 186 seconds. I traced it to the earlier change that caused it, and now it probes once per backend.
-- 🟡 **In review** · [run-llama/llama_index#23293](https://github.com/run-llama/llama_index/pull/23293)<br>
-  The graph stores wrote backslashes into remote persist paths on Windows.
-- 🟡 **In review** · [run-llama/llama_index#23292](https://github.com/run-llama/llama_index/pull/23292)<br>
-  `CSVReader` and `RTFReader` read UTF-8 files as cp1252 on Windows.
-- 🟡 **In review** · [run-llama/llama_index#23281](https://github.com/run-llama/llama_index/pull/23281)<br>
-  `MediaResource` paths serialized differently on Windows than on Linux.
-
-## Review notes: how I work
-
-- **A test that fails without the change, or it isn't a fix.** Every PR I open says which tests would fail if you reverted it.
-- **A fix for a class of bug sweeps the whole class.** I learned that from two outages five days apart, where one route got fixed and six identical routes didn't.
-- **Write it down where the next person will actually read it.** Decisions, faults and what they cost live in the repo, not in my head.
-- **I build AI-native, and I say so.** I use Claude Code and run it like a team: spec before code, small PRs, review before merge. That's how one person ships this much.
-
-## Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-## One consequence worth naming
-
-- **My contribution graph here looks quiet.** The product code is private, on [@banditofsmoke](https://github.com/banditofsmoke): 98 merged PRs on The English System and 81 on the agency site. I'll happily walk you through any of it on a call.
-- **I'm in South Africa, on UTC+2.** That covers Europe's whole working day and the US East Coast's morning.
-
-## Not in scope
-
-- **Teaching jobs.** I've taught, and I'm done with it. I want to build.
-
-## Prior art
-
-<details>
-<summary><b>The 2024 README, kept whole.</b> Everything I've built around since before any of the above.</summary>
-
-<br>
-
-**🚀 About me.** Hey, I'm Wayne, a passionate coder and adventure-seeker! 🏞️
+## 💡 Stuff I love building around
 
 - 🔧 Creator of Sletcher Systems and Global Defense Network
-- 💡 Always exploring new technologies and pushing boundaries
-
-**🛠️ Interests & Expertise.** I love building projects around:
-
 - 💻 Object-oriented programming
 - 🧠 RAG systems (from tiny to industry level)
 - 🤖 LLMs and Uncensored LLMs
@@ -162,15 +88,19 @@ LlamaIndex's CI never runs its tests on Windows, so the bugs that only exist the
 - 📊 Multimodal models
 - 💾 Memory and thread script management
 
-</details>
+## 📝 Good to know
 
-## How to merge
+- Most of my product code lives in private repos on [@banditofsmoke](https://github.com/banditofsmoke), which is why this profile looks quiet. Happy to walk you through any of it on a call.
+- I'm on UTC+2, so I overlap with Europe all day and the US in the morning.
+- I'm not looking for teaching jobs. I don't want to teach anymore, I want to code and build.
+
+---
 
 <div align="center">
 
 <a href="https://www.sletchersystems.com/enquire?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=hire-me"><img alt="Merge pull request: send me a message" src="https://img.shields.io/badge/%E2%9C%93_Merge_pull_request-send_me_a_message-238636?style=for-the-badge"></a>
 
-**[Send me a message](https://www.sletchersystems.com/enquire?utm_source=github&utm_medium=profile&utm_campaign=hire-me)** (three questions, no account) · or email **`wsletcher@gmail.com`**
+📬 `wsletcher@gmail.com`
 
 <i>Let's connect and build something amazing together!</i>
 
