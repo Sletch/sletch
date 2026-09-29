@@ -65,7 +65,7 @@ A free platform for people moving into software from other careers. You apply, t
 
 - I write tests. A fix isn't done until there's a test that fails without it.
 - When I find a bug, I go check everywhere else the same bug could be hiding.
-- I build with Claude Code and I'm open about it. It's how I get this much done on my own.
+- I build with Claude, Codex, and MANY OTHER LLMs I test, and I'm open about it. It's how I get this much done on my own.
 
 ## 🏆 Skills
 
