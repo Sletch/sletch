@@ -1,7 +1,7 @@
 <a href="https://www.sletchersystems.com/enquire?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=hire-me">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/hire-me-dark.svg">
-    <img alt="A pull request titled 'feat: hire Wayne Sletcher', asking to merge 1 engineer into your-team:main. Six checks pass: shipped to production, three PRs merged into Unsloth, three fixes in review at LlamaIndex, 1,200+ tests, two live courses, UTC+2. No conflicts with the base branch. Merge pull request opens a message form." src="assets/hire-me-light.svg" width="100%">
+    <img alt="A pull request titled 'feat: hire Wayne Sletcher', asking to merge 1 engineer into your-team:main. Six checks pass: shipped to production, four PRs merged into Unsloth, three fixes in review at LlamaIndex, 1,200+ tests, two live courses, UTC+2. No conflicts with the base branch. Merge pull request opens a message form." src="assets/hire-me-light.svg" width="100%">
   </picture>
 </a>
 
@@ -52,13 +52,13 @@ A free platform for people moving into software from other careers. You apply, t
 
 ## 🔧 Open source
 
-- ✅ **[3 merged into Unsloth](https://github.com/unslothai/unsloth/pulls?q=is%3Apr+is%3Amerged+author%3ASletch)** (77k★)
+- ✅ **[4 merged into Unsloth](https://github.com/unslothai/unsloth/pulls?q=is%3Apr+is%3Amerged+author%3ASletch)** (77k★)
+  - [#9924](https://github.com/unslothai/unsloth/pull/9924): when a Studio update on Windows couldn't recover its launcher, the error only said the launcher wasn't on disk, which hid the real problem. Now it says why recovery failed.
   - [#12274](https://github.com/unslothai/unsloth/pull/12274): their daily compatibility check had failed every morning since two new test files landed, because those files didn't skip on machines without PyTorch. Fixed them, and added a test that catches the same mistake on the pull request that makes it, not the next morning.
   - [#11142](https://github.com/unslothai/unsloth/pull/11142): their embedding code was starting a new GPU check process on every single call. One user's log had 274 of them in about three minutes. I found where it came from and fixed it so it only checks once.
   - [#10073](https://github.com/unslothai/unsloth/pull/10073): on Windows with an Intel GPU, PowerShell was reading the installer's `-d` flag as `-Debug`, so one step of the install had never worked since it was added. Tracked it down and fixed it.
-- 🟡 **[2 more in review at Unsloth](https://github.com/unslothai/unsloth/pulls?q=is%3Apr+is%3Aopen+author%3ASletch)**, both Windows bugs that users reported:
+- 🟡 **[1 more in review at Unsloth](https://github.com/unslothai/unsloth/pulls?q=is%3Apr+is%3Aopen+author%3ASletch)**, a Windows bug a user reported:
   - [#10075](https://github.com/unslothai/unsloth/pull/10075): when broken folder permissions stopped the installer replacing its copy of Node.js, it blamed a virus scanner. Now it names the permissions as a possible cause, along with the commands that repair them.
-  - [#9924](https://github.com/unslothai/unsloth/pull/9924): when a Studio update on Windows couldn't recover its launcher, the error only said the launcher wasn't on disk, which hid the real problem. Now it says why recovery failed.
 - 🟡 **[3 in review at LlamaIndex](https://github.com/run-llama/llama_index/pulls?q=is%3Apr+is%3Aopen+author%3ASletch)** (52k★) · [#23293](https://github.com/run-llama/llama_index/pull/23293) · [#23292](https://github.com/run-llama/llama_index/pull/23292) · [#23281](https://github.com/run-llama/llama_index/pull/23281)<br>
   All three are Windows bugs. Their CI doesn't run the tests on Windows, so I do.
 
