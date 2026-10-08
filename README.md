@@ -10,6 +10,7 @@
   <a href="https://www.sletchersystems.com/enquire?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=hire-me"><img alt="Message me" src="https://img.shields.io/badge/message_me-no_account_needed-0969da?style=for-the-badge"></a>
   <a href="https://www.sletchersystems.com"><img alt="sletchersystems.com" src="https://img.shields.io/badge/site-sletchersystems.com-24292f?style=for-the-badge"></a>
   <a href="https://www.sletchersystems.com/enquire?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=hire-me"><img alt="Remote, UTC+2" src="https://img.shields.io/badge/remote-UTC%2B2-6e7781?style=for-the-badge"></a>
+  <a href="https://ko-fi.com/waynesletcher"><img alt="Buy me a coffee on Ko-fi" src="https://img.shields.io/badge/Ko--fi-buy_me_a_coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
 </p>
 
 # Hey, I'm Wayne 👋
@@ -117,5 +118,7 @@ Straight from my 2024 README. Still true, and I'm still a passionate coder and a
 📬 `wsletcher@gmail.com`
 
 <i>Let's connect and build something amazing together!</i>
+
+☕ Like what I build? <a href="https://ko-fi.com/waynesletcher"><img alt="Buy me a coffee on Ko-fi" src="https://img.shields.io/badge/Ko--fi-buy_me_a_coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
 
 </div>
